@@ -64,8 +64,7 @@ You can try the application now from [here](https://bit.ly/BugTrackingSystemAppl
 ---
 ### Collaborators 🤝
 
-- [Ismail Fakhr](https://github.com/Ismailfakhr)
-- [Alaa Imam](https://github.com/AlaaImam)
-- [Ahmed Kamal](https://github.com/AhmadKamal0)
-- [Mahmoud Hany](https://github.com/MahmoudHanyFathalla)
-- [Anton Ashraf](https://github.com/AntonAshraf)
+- [Lavlesh Kumar Bais](https://www.linkedin.com/in/lavlesh/)
+- [Md Altaf Ahmed](https://www.linkedin.com/in/mdaltafahmed94/)
+- [Anubhav Kumar](https://www.linkedin.com/in/anubhav1601/)
+
